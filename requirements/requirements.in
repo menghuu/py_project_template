@@ -1,0 +1,12 @@
+pip-tools
+flask
+flask-restful
+attrs
+numpy
+
+# copy from origin repo requirements.txt
+awscli
+click
+jupyter
+matplotlib
+Sphinx
