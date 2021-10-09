@@ -7,6 +7,6 @@
 """
 
 from .local_configs import *
-from shisuo_event_extractor.utils import setup_logging
+from src.utils import setup_logging
 
 setup_logging()

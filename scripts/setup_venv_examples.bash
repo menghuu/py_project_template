@@ -1,9 +1,6 @@
 #! /bin/bash
 #
 # setup_venv_examples.bash
-# Copyright (C) 2019 m <m@meng.hu>
-#
-# Distributed under terms of the MIT license.
 #
 
 # 创建虚拟环境

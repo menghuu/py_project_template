@@ -1,10 +1,6 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 # vim:fenc=utf-8
-#
-# Copyright © 2019 m <m@meng.hu>
-#
-# Distributed under terms of the MIT license.
 
 """
 这里应该存放着和api服务配置相关的配置, 可能包括的内容有:

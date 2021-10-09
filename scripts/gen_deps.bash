@@ -1,7 +1,6 @@
 #! /bin/bash
 #
 # gen_deps.bash
-# Copyright (C) 2019 m <m@meng.hu>
 #
 # Distributed under terms of the MIT license.
 #
